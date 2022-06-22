@@ -1,0 +1,61 @@
+.container {
+    width: 612px;
+    height: 48px;
+    width: 101px;
+    height: 48px;
+}
+
+
+.luxery-header {
+    display: flex;
+    padding: 48px;
+    border-radius: 8px;
+    list-style: none;
+    color: #fff;
+    border-radius: 8px;
+}
+
+.luxery-nav {
+    width: 307px;
+    height: 500px;
+    padding: 40px;
+    background: #E28625;
+    border-radius: 8px;
+}
+
+.luxery-nav-top {
+    padding: 40px;
+    background: #006971;
+    border-radius: 8px;
+}
+
+.luxery-top-nav {
+    padding: 40px;
+    background-color: #004140;
+}
+
+
+
+.luxery-text {
+    margin-bottom: 179px;
+    width: 212px;
+}
+
+.lixery-link {
+    margin-bottom: 300px;
+    padding: 22px;
+    padding-right: 60px;
+    background: #F2F2F2;
+    border-radius: 25px;
+    border: 2px;
+    text-decoration: none;
+    color: #E28625;
+}
+.lixery-link:hover{
+    color: #fff;
+    border-color: #fff;
+   background-color: #E28625;
+}
+
+
+
